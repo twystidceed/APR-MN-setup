@@ -1,6 +1,6 @@
 #!/bin/bash
 # aprrmon 1.0 - QYNO Masternode Monitoring 
-NAME=apr
+NAME=aprcoin
 SCRIPT=aprmon.sh
 HIDDEN=.aprcoin
 TICKER=APR
